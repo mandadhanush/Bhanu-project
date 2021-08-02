@@ -38,7 +38,10 @@ if nav== "Home":
               Developed By
              """)
              
-   
+    st.image("bhanu.JPG",width = 100)
+    st.write("I am Bhanu Prakash Reddy pursuing M.tech Software Engineering in VIT University.I have developed three ML algorithms and used the best accuracy model for deploying in front end using streamlit platform.")
+    
+    
     
     
  
