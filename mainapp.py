@@ -41,7 +41,7 @@ if nav== "Home":
    
     
     
-    st.image("mypic.jpg",width = 100)
+ 
     
     
 if nav == "Results":
