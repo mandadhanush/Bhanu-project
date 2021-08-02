@@ -42,11 +42,7 @@ if nav== "Home":
     
     
     st.image("mypic.jpg",width = 100)
-    st.write("I am Dhanush Kumar manda pursuing M.tech Software Engineering in VIT University.My part of this project is to develop a front end using Streamlit framework and use the .h5 model in the page for predicting the disease.")
     
-    st.markdown("""
-                (My LinkedIn)(https://www.linkedin.com/in/mandadhanush/)
-    """)
     
 if nav == "Results":
     st.title("""
